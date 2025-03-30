@@ -1,8 +1,7 @@
 ## Hello , my name is Tony
 
-Engineering student specializing in Electronics, Telecommunications and Information Technology
-I'm passionate about AI , programming and techonlogy as a whole
-I develop websites as a side project
+Engineering student specializing in Electronics, Telecommunications and Information Technology,
+I'm passionate about AI , programming and techonlogy as a whole;
 Currently working at my startup
 
 # 💻 Tech Stack:
