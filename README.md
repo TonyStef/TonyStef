@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm the cofounder and CEO of SSA - the operating system for premium crop farmers. <br>I'm an engineering student specializing in electronics, telecommunications and IT. <br>Interested in AI and how technology can solve real world problems faster and more efficient than humans. <br>"To burn out trying to become something greater is divine. To fade safely as someone you never were is a tragedy."<br>
+ <br>I'm a former engineering student specializing in electronics, telecommunications and IT. <br>Interested in AI and how technology can solve real world problems faster and more efficient than humans. <br>"To burn out trying to become something greater is divine. To fade safely as someone you never were is a tragedy."<br>
 
 
 # 💻 Tech Stack:
