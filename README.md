@@ -36,13 +36,13 @@ $ ./contact
 → stef-av.com
 → @yourXhandle
 → stefvirgil2006@gmail.com
-```<br>
+```
 
-
-
-
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
