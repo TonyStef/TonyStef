@@ -23,19 +23,15 @@ $ ./past_work
 $ ./achievements
 ├── EF Builder's Retreat: 1 of 23 (youngest, peer vote winner)
 ├── Base Jump Arena: 1/7 Romanian, 1/30 total
-└── 578 GitHub commits this year
 
-$ ./stack
-Frontend: Next.js, React, Astro
-Backend: Node, Python, FastAPI
-ML: PyTorch, custom model training
-Infra: VPS, Docker, self-hosted
-Voice: Custom pipelines (not wrappers)
 
 $ ./contact
 → stef-av.com
-→ @yourXhandle
+→ @VirgillSA
 → stefvirgil2006@gmail.com
+
+$ ./more
+-> check out my website for more information
 ```
 
 ---
