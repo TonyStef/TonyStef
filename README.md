@@ -1,5 +1,10 @@
 # 💫 About Me:
-Building AI products. Currently shipping Grov (dev tools) and Casius (voice AI).<br>
+19, shipping AI products.
+
+Current: Voice AI for real estate + memory for coding agents.  
+Previous: AgTech hardware ($500k pipeline in 9mo).
+
+[stef-av.com](https://stef-av.com)<br>
 
 
 
