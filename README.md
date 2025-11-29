@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a former engineering student specializing in electronics, telecommunications and IT.<br>Interested in AI and how technology can solve real world problems faster and more efficient than humans.<br>
+Building AI products. Currently shipping Grov (dev tools) and Casius (voice AI).<br>
 
 
 
