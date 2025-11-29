@@ -1,10 +1,42 @@
 # 💫 About Me:
-19, shipping AI products.
+```bash
+$ ./whoami
+tony_stef: 19, builder, shipping AI products
 
-Current: Voice AI for real estate + memory for coding agents.  
-Previous: AgTech hardware ($500k pipeline in 9mo).
+$ ./current_projects
+├── Casius (LIVE)
+│   └── Voice AI for Dubai real estate
+│   └── <60s response, 4 languages, lead scoring
+│   └── First agency in pipeline
+│
+└── Grov (LAUNCHING)
+    └── Memory for AI coding agents
+    └── 1-2min exploration vs 10min+ before
+    └── <2% token overhead
 
-[stef-av.com](https://stef-av.com)<br>
+$ ./past_work
+└── SSA - AgTech Hardware
+    └── $500k pipeline in 9 months
+    └── Neural networks for crop automation
+    └── Ran out of funding before shipping
+
+$ ./achievements
+├── EF Builder's Retreat: 1 of 23 (youngest, peer vote winner)
+├── Base Jump Arena: 1/7 Romanian, 1/30 total
+└── 578 GitHub commits this year
+
+$ ./stack
+Frontend: Next.js, React, Astro
+Backend: Node, Python, FastAPI
+ML: PyTorch, custom model training
+Infra: VPS, Docker, self-hosted
+Voice: Custom pipelines (not wrappers)
+
+$ ./contact
+→ stef-av.com
+→ @yourXhandle
+→ stefvirgil2006@gmail.com
+```<br>
 
 
 
